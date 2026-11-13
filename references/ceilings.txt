@@ -1,0 +1,9 @@
+# Line ceilings for the reference files, read by validate-skill-bundle.py.
+# One line per file: <file.md> <ceiling> [<reason for the last raise>]
+# Over its ceiling, a file with more than 12 load triggers is split by episode;
+# one with 12 or fewer is trimmed, or its ceiling raised with a reason.
+# A ceiling more than 3 lines above its file count is lowered to the count.
+defect-classes.md 222 classes 11 to 15, the pronunciation case of class 4, page copy as the upper limit on facts and the classes-not-rows rule
+evals.md 121
+reviewer-brief.md 148 a full read of every final value by default, the sample as fallback, the re-review, the page-copy length in the brief, width outside the reviewer's grade, the locale's market as the grading frame
+writer-brief.md 162 the suffix after a name follows the market's pronunciation, with the forms recorded at intake; page copy of several thousand characters and the upper limit on facts; width not a defect in a kept value; the locale's market slot; distinguishable sibling-page titles
