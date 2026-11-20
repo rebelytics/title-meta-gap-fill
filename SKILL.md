@@ -1,12 +1,12 @@
 ---
 name: title-meta-gap-fill
 description: "Completes title tags and meta descriptions across a large page set without rewriting what already works: defines the page population by URL shape, verified against the sitemaps, joins crawl widths, page copy, queries and keywords on a stable key, applies an explicit keep rule, runs one native-level writer per locale with a fixed brief and a pixel-width checker, then a blind read of every final value by one reviewer per locale (a stratified sample only on very large sets), a correction pass over every row for the classes found, and a blind re-review. Use when the user wants titles or meta descriptions written, completed, fixed or localised for product, category, service or article pages; mentions missing, duplicate, truncated or machine-translated titles or descriptions; asks for a multilingual metadata rewrite or SERP snippet work at scale. H1s and image alt text follow the same loop."
-version: 1.3.0
-core_max_lines: 258
 license: CC-BY-4.0
 metadata:
   author: Eoghan Henn and contributors
   source: https://github.com/rebelytics/title-meta-gap-fill
+  version: "1.3.1"
+  core_max_lines: "258"
 ---
 
 # Title & Meta Gap Fill — complete a page set's titles and descriptions without rewriting what works
